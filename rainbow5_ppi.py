@@ -7,6 +7,9 @@ import warnings
 
 #ignore warnings
 warnings.filterwarnings('ignore')
+
+#loc is the path where you store your unzipped radar data
+#des is the path where you want to store the radar figures you plot
 loc=r'C:\Users\wfliu\Downloads\Radar data'
 des=r'C:\Users\wfliu\Downloads\Radar data\figs'
 
