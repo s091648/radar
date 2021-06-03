@@ -1,4 +1,3 @@
-import wradlib as wrl
 import pyart
 import numpy as np
 import matplotlib as mpl
